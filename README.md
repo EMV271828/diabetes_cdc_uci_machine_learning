@@ -1,7 +1,7 @@
 # UCI - Dataset CDC Diabetes Health Indicators - Machine Learning
 
 ## Resumo
-Uso de técnicas de machine learning no dataset CDC Diabetes Health Indicators - com maiores informações [neste link](https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators) - como forma de avaliação para a disciplina de Inteligência Artificial, da Universidade Federal Flumninense. Este dataset contém informações sobre pessoas envolvidas em uma pesquisa diagnóstica sobre diabetes.
+Uso de técnicas de machine learning no dataset CDC Diabetes Health Indicators - com maiores informações [neste link](https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators) - como forma de avaliação para a disciplina de Inteligência Artificial, da Universidade Federal Fluminense. Este dataset contém informações sobre pessoas envolvidas em uma pesquisa diagnóstica sobre diabetes.
 
 ## Objetivos da avaliação
 - Implementar em Python códigos para Árvores de Decisão, Random Forest e Rede Neural Multilayer Perceptron
